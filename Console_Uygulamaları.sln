@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktoriyel", "Faktoriyel\Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas_Hesaplama", "Yas_Hesaplama\Yas_Hesaplama.csproj", "{A82FC811-6688-468D-8FDD-323663E0B669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabaBilgiSistemi", "ArabaBilgiSistemi\ArabaBilgiSistemi.csproj", "{D036FECD-597B-4FFE-83E3-1455136F9AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarTahmin", "ZarTahmin\ZarTahmin.csproj", "{70482BDF-4021-4A8D-A7B3-FB3779E833B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A82FC811-6688-468D-8FDD-323663E0B669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A82FC811-6688-468D-8FDD-323663E0B669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A82FC811-6688-468D-8FDD-323663E0B669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D036FECD-597B-4FFE-83E3-1455136F9AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D036FECD-597B-4FFE-83E3-1455136F9AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D036FECD-597B-4FFE-83E3-1455136F9AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D036FECD-597B-4FFE-83E3-1455136F9AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70482BDF-4021-4A8D-A7B3-FB3779E833B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70482BDF-4021-4A8D-A7B3-FB3779E833B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70482BDF-4021-4A8D-A7B3-FB3779E833B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70482BDF-4021-4A8D-A7B3-FB3779E833B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
